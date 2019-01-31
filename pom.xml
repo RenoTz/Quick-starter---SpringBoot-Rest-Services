@@ -10,11 +10,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>quick.starter.base</groupId>
+	<artifactId>springboot-rest-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>quickstarter-springboot-rest-services</name>
+	<description>Base project for Spring Boot</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

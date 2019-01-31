@@ -1,4 +1,4 @@
-package com.example.demo;
+package quick.starter.base;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
