@@ -1,0 +1,1 @@
+# quickstarter-spring-boot-rest-services [![Build Status](https://travis-ci.org/RenoTz/quickstarter-spring-boot-rest-services.svg?branch=master)](https://travis-ci.org/RenoTz/quickstarter-spring-boot-rest-services)
