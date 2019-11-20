@@ -11,7 +11,4 @@ WITH (
 );
 ALTER TABLE employe
   OWNER TO postgres;
-
-  
-INSERT into employe (nom, prenom) values ('Trezieres', 'Renaud');
   
